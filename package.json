@@ -1,0 +1,17 @@
+{
+  "name": "webscrapers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scraper.js",
+  "type": "module",
+  "scripts": {
+    "start": "node scraper.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.2.2"
+  }
+}
